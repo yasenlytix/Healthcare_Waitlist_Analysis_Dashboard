@@ -54,9 +54,15 @@
 ### 2️⃣ Data Modelling
 #### I built a Date Table for better time analysis. Connected tables with correct relationships (Date, Case Type, Specialty). Then created simple hierarchies like Year > Quarter > Month to make trends easy to explore. Efficient Data Modeling made this visual possible.
 
-> ![3rd_KPI](https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/b9a3cb5db09342e6ad9b5e1b0412c214e98d6cef/3rd_KPI.jpg)
+<br>
+
+<p align="center">
+  <img src="https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/b9a3cb5db09342e6ad9b5e1b0412c214e98d6cef/3rd_KPI.jpg?raw=true" alt="3rd_KPI" style="max-width: 100%; height: auto;" />
+</p>
+
 
 <br>
+
 
 ### 3️⃣ Essential DAX Measures
 #### I wrote easy-to-medium-level DAX formulas to calculate total wait list numbers, compared current vs last year trends, and found averages or medians for wait times. Also, calculated percentages for each case type (Outpatient, Day Case, Inpatient). The best thing I did here was that I separately created a table and then inserted all custom measures into it.
@@ -67,9 +73,16 @@
 ### 5️⃣ Found Deeper Patterns
 #### I used simple DAX and filters to see the Top 5 Specialties with the longest waits. Then I grouped patients by age bands and waiting periods to spot hidden delays. This helped me reveal exactly where the biggest backlogs were. It was a bit difficult to get this simple visual cause it made me able to write complex DAX, and after some research, I made it possible.
 
-> ![1st_KPI](https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/ca8dfbf7289fca1efb2c6433398c3e758425a7bd/1st_KPI.jpg)
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/ca8dfbf7289fca1efb2c6433398c3e758425a7bd/1st_KPI.jpg?raw=true" alt="1st_KPI" style="max-width: 100%; height: auto;" />
+</p>
+
+
+<br>
+
 
 ### 6️⃣ Double-Checked Accuracy
 #### During the building process, I always double-checked whether the numbers matched the raw data. I tested the dashboard visuals and filters again & again. I added drill-through pages or tooltips to let users see details behind summary charts.
@@ -102,3 +115,16 @@
 - #### MS Power BI
 - #### ChatGPT
 
+<br>
+
+#### 💬 Share your thoughts and comments if you found something helpful...
+
+<br>
+<br>
+
+
+> ***<h3 align="center">Data is like a Parasite, it needs a host to grow!</h3>***
+
+
+<br>
+<br>
