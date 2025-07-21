@@ -52,7 +52,11 @@
 #### I started by collecting raw data from XLSX files. Cleaned it in Power Query, fixed missing values, removed errors, and filtered the needed date range (Jan 2018 to Mar 2021).
 
 ### 2️⃣ Data Modelling
-#### I built a Date Table for better time analysis. Connected tables with correct relationships (Date, Case Type, Specialty). Then created simple hierarchies like Year > Quarter > Month to make trends easy to explore.
+#### I built a Date Table for better time analysis. Connected tables with correct relationships (Date, Case Type, Specialty). Then created simple hierarchies like Year > Quarter > Month to make trends easy to explore. Efficient Data Modeling made this visual possible.
+
+> ![3rd_KPI](https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/b9a3cb5db09342e6ad9b5e1b0412c214e98d6cef/3rd_KPI.jpg)
+
+<br>
 
 ### 3️⃣ Essential DAX Measures
 #### I wrote easy-to-medium-level DAX formulas to calculate total wait list numbers, compared current vs last year trends, and found averages or medians for wait times. Also, calculated percentages for each case type (Outpatient, Day Case, Inpatient). The best thing I did here was that I separately created a table and then inserted all custom measures into it.
@@ -61,21 +65,27 @@
 #### I designed clear visuals — like pie charts for case type split, line charts for monthly trends, and stacked columns for age groups vs wait time. I used cards for highlighting key numbers. Then I added slicers so users can filter by date, specialty, or case type. I used Figma here to build a seamless user experience with interactive UI to make things interesting and easily approachable even for non-technical users.
 
 ### 5️⃣ Found Deeper Patterns
-#### I used simple DAX and filters to see the Top 5 Specialties with the longest waits. Then I grouped patients by age bands and waiting periods to spot hidden delays. This helped me reveal exactly where the biggest backlogs were.
+#### I used simple DAX and filters to see the Top 5 Specialties with the longest waits. Then I grouped patients by age bands and waiting periods to spot hidden delays. This helped me reveal exactly where the biggest backlogs were. It was a bit difficult to get this simple visual cause it made me able to write complex DAX, and after some research, I made it possible.
+
+> ![1st_KPI](https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/ca8dfbf7289fca1efb2c6433398c3e758425a7bd/1st_KPI.jpg)
+
+<br>
 
 ### 6️⃣ Double-Checked Accuracy
 #### During the building process, I always double-checked whether the numbers matched the raw data. I tested the dashboard visuals and filters again & again. I added drill-through pages or tooltips to let users see details behind summary charts.
 
-### 7️⃣ Data-driven Impact
+<br>
+
+### ✅ Data-driven Impact
 #### I highlighted the main pain points clearly:- 
 #### Rosen wait lists, overloaded outpatient cases, and long delays for certain specialties and age groups. This approach made the dashboard interactive and easy for decision-makers to explore.
 #### Ultimately, I	turned complexity into clarity, enabling faster data-backed decisions, budget controlling, and smarter resource planning.
 
+<br>
+<br>
+<br>
 
-
-
-
-
+![Healthcare_Report](https://github.com/yasenlytix/Healthcare_Waitlist_Analysis_Dashboard/blob/12e05f88ea4cae84b58fda952dd953b7790829be/Hc_Dashboard.jpg)
 
 
 
@@ -83,11 +93,12 @@
 <br>
 
 > ## Note
-### This dashboard is a mix of:---
+### This Dashboard is a Mix of:---
 - #### My Research
-- #### Kaggle Data-set
+- #### Kaggle Dataset
 - #### Medical Understanding
 - #### Tutorials (-- especially on DAX & Custom Measures --)
 - #### Figma (-- I nailed the Dashboard UI using Figma --)
+- #### MS Power BI
 - #### ChatGPT
 
