@@ -1,5 +1,7 @@
 # Healthcare_Waitlist_Analysis_Dashboard
 
+<br>
+<br>
 
 # **🎯 Project Goals**
 
@@ -7,28 +9,33 @@
 ### 2. Analyze the historical monthly trend of the waiting list in inpatient and outpatient waiting lists.
 ### 3. Build a dynamic dashboard for data-driven decision making and smarter resource planning.
 
-------------------------------------
-------------------------------------
+<br>
 
-
-## **🧾 Data Scope**
+# **🧾 Data Scope**
 ### 2018 ---> 2021
 
+<br>
 
-## **📈 Metrics Required**
+# **📈 Metrics Required**
 ### 1. Average & Median waiting list.
 ### 2. Current total waitlist.
 
+<br>
 
-## **📌 Views Required**
+# **📌 Views Required**
 ### A. Summary Dashboard
 
-
+<br>
+<br>
 
 ------------------------------------
-------------------------------------
+
+<br>
+<br>
 
 # ***🚀 Project Working***
+
+<br>
 
 ## 😫 Problems To Uncover
 #### **☑️ Rising Wait List:-** The Latest month’s total wait list is 709K, increased from 640K last year — showing a clear backlog trend.
@@ -37,6 +44,7 @@
 #### **☑️ Case Type Pressure:-** 72.49% of all cases are Outpatient, highlighting an overloaded outpatient system needing process improvements.
 #### **☑️ No Declining Trend:-** Despite slight seasonal drops, no long-term decreasing trend exists, pointing to systematic backlog issues.
 
+<br>
 
 ## 😵 Steps Taken to Uncover Possibilities
 
@@ -70,12 +78,16 @@
 
 
 
+
+<br>
+<br>
+
 > ## Note
 ### This dashboard is a mix of:---
-#### My Research
-#### Kaggle Data-set
-#### Medical Understanding
-#### Tutorials (-- especially on DAX & Custom Measures --)
-#### Figma (-- I nailed the Dashboard UI using Figma --)
-#### ChatGPT
+- #### My Research
+- #### Kaggle Data-set
+- #### Medical Understanding
+- #### Tutorials (-- especially on DAX & Custom Measures --)
+- #### Figma (-- I nailed the Dashboard UI using Figma --)
+- #### ChatGPT
 
